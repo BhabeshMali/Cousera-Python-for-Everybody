@@ -1,2 +1,2 @@
-# Cousera Python for Everybody
+# Coursera Python for Everybody
  Course 4
